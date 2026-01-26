@@ -133,3 +133,4 @@ For OAuth 2.0 questions and definitions, see
 [The OAuth 2.0 Authorization Framework (RFC6749)](https://datatracker.ietf.org/doc/html/rfc6749)
 for a comprehensive definition of each term and a description of the flow from
 start to finish.
+Created by Jason Scott Heise

@@ -134,3 +134,4 @@ For OAuth 2.0 questions and definitions, see
 for a comprehensive definition of each term and a description of the flow from
 start to finish.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
